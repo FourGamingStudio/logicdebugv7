@@ -1,0 +1,13 @@
+displayName: "yr2 Logic Debugger"
+
+name: "yr2-logic-debugger"
+
+author: "原作者：DeltaNedas\n修改：yaddrx2"
+
+description: "Logic Debugger"
+
+version: 1.6.4
+
+minGameVersion: 137
+
+hidden: true
